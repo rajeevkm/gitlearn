@@ -5,6 +5,10 @@ class SimpleGit
     @git_dir = File.expand_path(git_dir)
   end
   
+  def commit
+    command("git commit")
+  end
+
   def status
     command("git status")
   end
