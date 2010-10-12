@@ -22,4 +22,8 @@ Rajeev:Test2 7:35PM
 Author: Rajeev
         This is for understanding staging an already staged file ..2
 
+Rajeev:Test2 7:51PM
+Author: Rajeev
+        This is for understanding git commit -a - Automatically stage any tracked files before commit
+
 
