@@ -8,3 +8,18 @@ It is an example for the Git Peepcode book that I'm currently writing.
 Author : Scott Chacon (schacon@gmail.com)
          Orange Peel Chacon (opchacon@gmail.com)
          Magnus O. Chacon (mchacon@gmail.com)
+
+
+Rajeev:Test1 7:27PM
+Author: Rajeev
+	This is for understanding git add command
+
+Rajeev:Test2 7:30PM
+Author: Rajeev
+	This is for understanding staging an already staged file
+
+Rajeev:Test2 7:35PM
+Author: Rajeev
+        This is for understanding staging an already staged file ..2
+
+
