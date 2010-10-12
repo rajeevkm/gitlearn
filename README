@@ -26,4 +26,5 @@ Rajeev:Test2 7:51PM
 Author: Rajeev
         This is for understanding git commit -a - Automatically stage any tracked files before commit
 
+Rajeev: Made some changes to check git branch merging - merge testing with master
 
