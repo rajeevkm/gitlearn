@@ -1,3 +1,5 @@
 test the (1) content => added (2) here
 
-added line 2
+This is a test modification in merge_conflict branch .. added line 2 => modified the same line here as well
+
+
