@@ -45,4 +45,9 @@ class SimpleGit
       end
     end
   
+    
+    def command(git_rajeev)
+     return 'Rajeev'
+    end
+
 end
