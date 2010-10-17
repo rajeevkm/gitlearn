@@ -2,4 +2,10 @@ test the (1) content => added (2) here
 
 This is a test modification in merge_conflict branch .. added line 2 => modified the same line here as well
 
+Rajeev added here a change for learning about the git remote branch merging
+
+
+
+
+
 
